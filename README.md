@@ -1,2 +1,3 @@
 # actigraphy-project
-sleep data
+
+syncing psg and actigraphy data.
